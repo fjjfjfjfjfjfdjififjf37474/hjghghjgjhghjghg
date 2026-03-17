@@ -1,0 +1,7 @@
+#profile-title: 👋 External VPN 
+#announce: 🚀 Новые сервера — Новая скорость
+#support-url: https://t.me/externalvpn_happ
+#subscription-userinfo: upload=0; download=2153701362; total=0
+#hide-settings: 1
+#profile-update-interval: 1
+#ping-type: tcp
