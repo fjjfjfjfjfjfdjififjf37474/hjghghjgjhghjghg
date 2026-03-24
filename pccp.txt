@@ -1,5 +1,5 @@
 #profile-title: 👋 External VPN 
-#announce: 🚀 Новые сервера — Новая скорость
+#announce: ! reboot ! 
 #support-url: https://t.me/externalvpn_happ
 #subscription-userinfo: upload=0; download=2153701362; total=0
 #hide-settings: 1
